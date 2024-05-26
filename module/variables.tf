@@ -1,5 +1,5 @@
 variable "message" {
-  description = "Mensagem usada no echo output"
+  description = "Message used in echo output"
   type = string
   default = ""
 }
